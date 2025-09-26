@@ -1,0 +1,12 @@
+langchain
+langchain_community
+langchain_groq
+langchain_huggingface
+sentence-transformers
+python-dotenv
+langchain_core
+streamlit
+ipykernel
+pypdf
+faiss-cpu
+tqdm
