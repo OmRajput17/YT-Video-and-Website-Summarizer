@@ -10,3 +10,6 @@ ipykernel
 pypdf
 faiss-cpu
 tqdm
+validators
+youtube_transcript_api
+pytube
